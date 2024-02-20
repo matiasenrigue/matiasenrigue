@@ -1,4 +1,4 @@
-👨‍🎓 Economist Graduate converted to computer science
+👨‍🎓 Economics Graduate converted to computer science
 
 - 🐍 Python programming 
 - 📊 Data Science & AI
