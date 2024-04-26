@@ -1,4 +1,11 @@
-👨‍🎓 Economics Graduate converted to computer science
+Hello I'm Matías Enrigue and this are my current occupations:
+- 💼 Job: Data Consultant at SDG Group
+- 🎓 Freelance: Teacher Assistant at LeWagon Bootcamps: Data science & Data Analysis
+- 🌍 Freelance: I'm taking other freelance projects when requested by a client
 
-- 🐍 Python programming 
-- 📊 Data Science & AI
+---
+
+Technology Stakc:
+- 🐍 Programming: Python
+- 📊 Data Analysis: Power BI & SQL
+- 🧑‍🔬 Data Science & AI
