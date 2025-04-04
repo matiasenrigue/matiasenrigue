@@ -6,9 +6,9 @@ I’m currently a **Master's student in Computer Science** at University College
 
 ## Job Experience in Tech
 
-- 💼 **Data Consultant at SDG Group** (04/2024 – 10/2024)  
-- 💼 **Data Analyst & Python Developer at Fluidra** (04/2023 – 08/2023)  
+- 💼 **Data Consultant at SDG Group** (04/2024 – 10/2024)
 - 💼 **Teacher Assistant at LeWagon Bootcamps** (01/2024 – 04/2024)  
+- 💼 **Data Analyst & Python Developer at Fluidra** (04/2023 – 08/2023)  
 - 🌍 **Freelance Projects**  
 
 ---
